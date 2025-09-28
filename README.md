@@ -1,18 +1,25 @@
-**Selenium Hybrid Framework (Python)**
-This project is a Hybrid Test Automation Framework built with Python, Selenium, PyTest, and Page Object Model (POM).
-It supports cross-browser testing, parallel execution, data-driven testing, logging and reporting.
+# Selenium Hybrid Framework (Python)
 
-**Features**
-Page Object Model (POM) for maintainable test cases
-Cross-browser testing (Chrome, Firefox, etc.)
-Parallel execution with pytest-xdist
-Data-driven testing using Excel (OpenPyXL)
-Custom logging support
-Automatic screenshots on failures
-HTML and Allure reports
-Easy scalability for adding new test cases
+This project is a **Hybrid Test Automation Framework** built with **Python, Selenium, PyTest, and Page Object Model (POM)**.
+It supports **cross-browser testing, parallel execution, data-driven testing, logging, reporting (HTML & Allure), and CI/CD integration**.
+---
 
-**Project Structure**
+## Features
+
+* Page Object Model (POM) for maintainable test cases
+* Cross-browser testing (Chrome, Firefox, etc.)
+* Parallel execution with `pytest-xdist`
+* Data-driven testing using Excel (OpenPyXL)
+* Custom logging support
+* Automatic screenshots on failures
+* HTML and Allure reports
+* Easy scalability for adding new test cases
+
+---
+
+## Project Structure
+
+```
 Selenium_Hybrid_Framework
 │
 ├─ pageObjects/        # Page Object classes
@@ -24,17 +31,48 @@ Selenium_Hybrid_Framework
 ├─ Screenshots/        # Captured screenshots on failures
 ├─ Reports/            # HTML/Allure reports
 └─ Run.bat             # Batch file to trigger tests
+```
 
-**How TO Run Tests ?**
-**Run on Chrome**
+---
+
+## Running Tests
+
+### Run on Chrome
+
+```bash
 pytest -s -v testCases/test_login.py --browser chrome
+```
 
-**Run on Firefox**
+### Run on Firefox
+
+```bash
 pytest -s -v testCases/test_login.py --browser firefox
+```
 
-**Run Tests in Parallel** (3 threads)
+### Run Tests in Parallel (3 threads)
+
+```bash
 pytest -s -v -n=3 testCases/test_login.py --browser chrome
+```
 
+---
 
-**Author**
-Ahmad Khan
+## Reports
+
+### HTML Report
+
+```bash
+pytest -s -v -n=3 --html=Reports/report.html testCases/test_login.py --browser chrome
+```
+
+### Allure Report
+
+```bash
+pytest --alluredir=Reports/allure_results
+allure serve Reports/allure_results
+```
+---
+## Author
+
+**Ahmad Khan**
+🔗 [GitHub Profile](https://github.com/ahmadashraf123)
