@@ -1,0 +1,160 @@
+080125 01:28:24 AM:INFO:====== WebDriver manager ======
+080125 01:28:26 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 01:28:27 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 01:28:27 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 01:28:30 AM:INFO:Starting test_login
+080125 01:28:30 AM:INFO:******** Test_001_Login *********
+080125 01:28:30 AM:INFO:******** Verifying Home page Title *********
+080125 01:28:31 AM:INFO:Home page title verified successfully.
+080125 01:28:34 AM:INFO:====== WebDriver manager ======
+080125 01:28:36 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 01:28:36 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 01:28:37 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 01:28:39 AM:INFO:******** Verifying login test case *********
+080125 01:28:43 AM:INFO:Login test passed.
+080125 11:10:53 AM:INFO:====== WebDriver manager ======
+080125 11:10:56 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:10:56 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:10:57 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:10:58 AM:INFO:Starting test_login
+080125 11:10:58 AM:INFO:******** Test_001_Login *********
+080125 11:10:58 AM:INFO:******** Verifying Home page Title *********
+080125 11:11:01 AM:INFO:Home page title verified successfully.
+080125 11:11:03 AM:INFO:====== WebDriver manager ======
+080125 11:11:04 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:11:05 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:11:05 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:11:07 AM:INFO:******** Verifying login test case *********
+080125 11:11:14 AM:INFO:Login test passed.
+080125 11:12:12 AM:INFO:====== WebDriver manager ======
+080125 11:12:13 AM:INFO:Get LATEST geckodriver version for 141.0 firefox
+080125 11:12:14 AM:INFO:Get LATEST geckodriver version for 141.0 firefox
+080125 11:12:14 AM:INFO:There is no [win64] geckodriver "v0.36.0" for browser firefox "141.0" in cache
+080125 11:12:14 AM:INFO:Get LATEST geckodriver version for 141.0 firefox
+080125 11:12:15 AM:INFO:Getting latest mozilla release info for v0.36.0
+080125 11:12:15 AM:INFO:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+080125 11:12:16 AM:INFO:Driver downloading response is 200
+080125 11:12:17 AM:INFO:Get LATEST geckodriver version for 141.0 firefox
+080125 11:12:18 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\geckodriver\win64\v0.36.0]
+080125 11:12:25 AM:INFO:Starting test_login
+080125 11:12:25 AM:INFO:******** Test_001_Login *********
+080125 11:12:25 AM:INFO:******** Verifying Home page Title *********
+080125 11:12:27 AM:INFO:Home page title verified successfully.
+080125 11:12:31 AM:INFO:====== WebDriver manager ======
+080125 11:12:33 AM:INFO:Get LATEST geckodriver version for 141.0 firefox
+080125 11:12:33 AM:INFO:Get LATEST geckodriver version for 141.0 firefox
+080125 11:12:33 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+080125 11:12:40 AM:INFO:******** Verifying login test case *********
+080125 11:12:48 AM:INFO:Login test passed.
+080125 11:13:37 AM:INFO:====== WebDriver manager ======
+080125 11:13:38 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:13:38 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:13:39 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:13:40 AM:INFO:Starting test_login
+080125 11:13:40 AM:INFO:******** Test_001_Login *********
+080125 11:13:40 AM:INFO:******** Verifying Home page Title *********
+080125 11:13:42 AM:INFO:Home page title verified successfully.
+080125 11:13:44 AM:INFO:====== WebDriver manager ======
+080125 11:13:45 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:13:46 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:13:46 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:13:48 AM:INFO:******** Verifying login test case *********
+080125 11:13:54 AM:INFO:Login test passed.
+080125 11:14:21 AM:INFO:====== WebDriver manager ======
+080125 11:14:22 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:14:22 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:14:22 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:14:24 AM:INFO:Starting test_login
+080125 11:14:24 AM:INFO:******** Test_001_Login *********
+080125 11:14:24 AM:INFO:******** Verifying Home page Title *********
+080125 11:14:26 AM:INFO:Home page title verified successfully.
+080125 11:14:29 AM:INFO:====== WebDriver manager ======
+080125 11:14:30 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:14:30 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:14:30 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:14:32 AM:INFO:******** Verifying login test case *********
+080125 11:14:39 AM:INFO:Login test passed.
+080125 11:15:18 AM:INFO:====== WebDriver manager ======
+080125 11:15:19 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:15:19 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:15:20 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:15:21 AM:INFO:Starting test_login
+080125 11:15:21 AM:INFO:******** Test_001_Login *********
+080125 11:15:21 AM:INFO:******** Verifying Home page Title *********
+080125 11:15:25 AM:INFO:Home page title verified successfully.
+080125 11:15:27 AM:INFO:====== WebDriver manager ======
+080125 11:15:28 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:15:28 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:15:29 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080125 11:15:30 AM:INFO:******** Verifying login test case *********
+080125 11:15:38 AM:ERROR:Login test failed.
+080125 11:19:06 AM:INFO:xdist worker is: gw1
+080125 11:19:06 AM:INFO:xdist worker is: gw0
+080125 11:19:06 AM:INFO:====== WebDriver manager ======
+080125 11:19:06 AM:INFO:====== WebDriver manager ======
+080125 11:19:07 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:07 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:08 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:08 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:08 AM:INFO:There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+080125 11:19:08 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:08 AM:INFO:There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+080125 11:19:08 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:09 AM:INFO:WebDriver version 138.0.7204.183 selected
+080125 11:19:09 AM:INFO:WebDriver version 138.0.7204.183 selected
+080125 11:19:09 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080125 11:19:09 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080125 11:19:09 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080125 11:19:09 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080125 11:19:09 AM:INFO:Driver downloading response is 200
+080125 11:19:09 AM:INFO:Driver downloading response is 200
+080125 11:19:16 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:16 AM:INFO:Get LATEST chromedriver version for google-chrome
+080125 11:19:17 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183]
+080125 11:19:18 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183]
+080125 11:19:19 AM:INFO:Starting test_login
+080125 11:19:19 AM:INFO:******** Test_001_Login *********
+080125 11:19:19 AM:INFO:******** Verifying Home page Title *********
+080125 11:19:20 AM:INFO:******** Verifying login test case *********
+080125 11:19:23 AM:INFO:Home page title verified successfully.
+080125 11:19:28 AM:INFO:Login test passed.
+080225 01:04:25 AM:INFO:xdist worker is: gw1
+080225 01:04:25 AM:INFO:====== WebDriver manager ======
+080225 01:04:25 AM:INFO:====== WebDriver manager ======
+080225 01:04:27 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:27 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:27 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:27 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:28 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:28 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:29 AM:INFO:WebDriver version 138.0.7204.183 selected
+080225 01:04:29 AM:INFO:WebDriver version 138.0.7204.183 selected
+080225 01:04:29 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080225 01:04:29 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080225 01:04:29 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080225 01:04:29 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080225 01:04:29 AM:INFO:Driver downloading response is 200
+080225 01:04:29 AM:INFO:Driver downloading response is 200
+080225 01:04:35 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:36 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:04:38 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183]
+080225 01:04:38 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183]
+080225 01:04:41 AM:INFO:Starting test_login
+080225 01:04:41 AM:INFO:******** Test_001_Login *********
+080225 01:04:41 AM:INFO:******** Verifying Home page Title *********
+080225 01:04:41 AM:INFO:******** Verifying login test case *********
+080225 01:04:44 AM:INFO:Home page title verified successfully.
+080225 01:04:50 AM:INFO:Login test passed.
+080225 01:08:20 AM:INFO:xdist worker is: gw1
+080225 01:08:20 AM:INFO:====== WebDriver manager ======
+080225 01:08:22 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:08:22 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:08:23 AM:INFO:Get LATEST chromedriver version for google-chrome
+080225 01:08:23 AM:INFO:Driver [C:\Users\viral square\.wdm\gw1\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 01:08:23 AM:INFO:Driver [C:\Users\viral square\.wdm\gw0\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 01:08:26 AM:INFO:Starting test_login
+080225 01:08:26 AM:INFO:******** Test_001_Login *********
+080225 01:08:26 AM:INFO:******** Verifying Home page Title *********
+080225 01:08:26 AM:INFO:******** Verifying login test case *********
+080225 01:08:29 AM:INFO:Home page title verified successfully.
+080225 01:08:34 AM:INFO:Login test passed.

@@ -1,0 +1,686 @@
+080225 03:45:33 PM:INFO:====== WebDriver manager ======
+080225 03:45:36 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:45:37 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:45:37 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:45:39 PM:INFO:WebDriver version 138.0.7204.183 selected
+080225 03:45:39 PM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080225 03:45:39 PM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080225 03:45:39 PM:INFO:Driver downloading response is 200
+080225 03:45:42 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:45:46 PM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+080225 03:45:49 PM:INFO:******** TTest_002_DDT_Login *********
+080225 03:49:35 PM:INFO:====== WebDriver manager ======
+080225 03:49:36 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:49:37 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:49:37 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 03:49:39 PM:INFO:******** TTest_002_DDT_Login *********
+080225 03:51:43 PM:INFO:====== WebDriver manager ======
+080225 03:51:44 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:51:45 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:51:45 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 03:51:47 PM:INFO:******** TTest_002_DDT_Login *********
+080225 03:54:53 PM:INFO:====== WebDriver manager ======
+080225 03:54:55 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:54:56 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 03:54:56 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 03:54:58 PM:INFO:******** TTest_002_DDT_Login *********
+080225 04:10:48 PM:INFO:====== WebDriver manager ======
+080225 04:10:50 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 04:10:51 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 04:10:51 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 04:10:54 PM:INFO:******** TTest_002_DDT_Login *********
+080225 04:13:19 PM:INFO:====== WebDriver manager ======
+080225 04:13:20 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 04:13:21 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 04:13:21 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 04:13:23 PM:INFO:******** TTest_002_DDT_Login *********
+080225 04:21:33 PM:INFO:====== WebDriver manager ======
+080225 04:21:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 04:21:36 PM:INFO:Get LATEST chromedriver version for google-chrome
+080225 04:21:37 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080225 04:21:39 PM:INFO:******** Test_002_DDT_Login ********
+080225 04:21:43 PM:INFO:Rows found: 5
+080225 04:21:43 PM:INFO:Row 2: user=admin@yourstore.com, expected=pass
+080225 04:21:56 PM:INFO:Login test: PASS
+080225 04:22:01 PM:INFO:Row 3: user=admin@yourstore.com, expected=fail
+080225 04:22:02 PM:INFO:Login test: PASS (failed as expected)
+080225 04:22:02 PM:INFO:Row 4: user=adm@yourstore.com, expected=fail
+080225 04:22:04 PM:INFO:Login test: PASS (failed as expected)
+080225 04:22:04 PM:INFO:Row 5: user=adm@yourstore.com, expected=fail
+080225 04:22:06 PM:INFO:Login test: PASS (failed as expected)
+080225 04:22:06 PM:INFO:Login DDT test: PASSED
+080325 02:58:00 PM:INFO:====== WebDriver manager ======
+080325 02:58:01 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 02:58:01 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 02:58:02 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 02:58:03 PM:INFO:WebDriver version 138.0.7204.183 selected
+080325 02:58:03 PM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080325 02:58:03 PM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080325 02:58:03 PM:INFO:Driver downloading response is 200
+080325 02:58:06 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 02:58:08 PM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+080325 02:58:09 PM:INFO:Test_003_add_customer
+080325 02:58:15 PM:INFO:****** Login Successful *****
+080325 02:58:15 PM:INFO: ****** starting add customer Test *****
+080325 03:25:32 PM:INFO:====== WebDriver manager ======
+080325 03:25:34 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:25:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:25:35 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:25:37 PM:INFO:Test_003_add_customer
+080325 03:25:43 PM:INFO:****** Login Successful *****
+080325 03:25:43 PM:INFO: ****** starting add customer Test *****
+080325 03:29:45 PM:INFO:====== WebDriver manager ======
+080325 03:29:48 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:29:49 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:29:50 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:29:52 PM:INFO:Test_003_add_customer
+080325 03:29:59 PM:INFO:****** Login Successful *****
+080325 03:29:59 PM:INFO: ****** starting add customer Test *****
+080325 03:30:05 PM:INFO:****** providing AddCustomer details *****
+080325 03:34:39 PM:INFO:====== WebDriver manager ======
+080325 03:34:41 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:34:42 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:34:42 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:34:44 PM:INFO:Test_003_add_customer
+080325 03:34:52 PM:INFO:****** Login Successful *****
+080325 03:34:52 PM:INFO: ****** starting add customer Test *****
+080325 03:34:58 PM:INFO:****** providing AddCustomer details *****
+080325 03:38:15 PM:INFO:====== WebDriver manager ======
+080325 03:38:17 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:38:18 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:38:18 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:38:20 PM:INFO:Test_003_add_customer
+080325 03:38:27 PM:INFO:****** Login Successful *****
+080325 03:38:27 PM:INFO: ****** starting add customer Test *****
+080325 03:43:55 PM:INFO:====== WebDriver manager ======
+080325 03:43:57 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:43:58 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:43:58 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:44:00 PM:INFO:Test_003_add_customer
+080325 03:44:08 PM:INFO:****** Login Successful *****
+080325 03:44:08 PM:INFO: ****** starting add customer Test *****
+080325 03:44:13 PM:INFO:****** providing AddCustomer details *****
+080325 03:55:36 PM:INFO:====== WebDriver manager ======
+080325 03:55:38 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:55:38 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:55:39 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:55:41 PM:INFO:Test_003_add_customer
+080325 03:55:48 PM:INFO:****** Login Successful *****
+080325 03:55:48 PM:INFO: ****** starting add customer Test *****
+080325 03:55:53 PM:INFO:****** providing AddCustomer details *****
+080325 03:58:52 PM:INFO:====== WebDriver manager ======
+080325 03:58:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:58:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 03:58:55 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 03:58:57 PM:INFO:Test_003_add_customer
+080325 03:59:03 PM:INFO:****** Login Successful *****
+080325 03:59:03 PM:INFO: ****** starting add customer Test *****
+080325 04:00:53 PM:INFO:====== WebDriver manager ======
+080325 04:00:55 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:00:56 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:00:56 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:00:58 PM:INFO:Test_003_add_customer
+080325 04:01:05 PM:INFO:****** Login Successful *****
+080325 04:01:05 PM:INFO: ****** starting add customer Test *****
+080325 04:03:50 PM:INFO:====== WebDriver manager ======
+080325 04:03:51 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:03:52 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:03:52 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:03:54 PM:INFO:Test_003_add_customer
+080325 04:04:01 PM:INFO:****** Login Successful *****
+080325 04:04:01 PM:INFO: ****** starting add customer Test *****
+080325 04:06:14 PM:INFO:====== WebDriver manager ======
+080325 04:06:16 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:06:17 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:06:17 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:06:19 PM:INFO:Test_003_add_customer
+080325 04:06:26 PM:INFO:****** Login Successful *****
+080325 04:06:26 PM:INFO: ****** starting add customer Test *****
+080325 04:06:31 PM:INFO:****** providing AddCustomer details *****
+080325 04:09:20 PM:INFO:====== WebDriver manager ======
+080325 04:09:22 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:09:22 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:09:23 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:09:25 PM:INFO:Test_003_add_customer
+080325 04:09:33 PM:INFO:****** Login Successful *****
+080325 04:09:33 PM:INFO: ****** starting add customer Test *****
+080325 04:09:38 PM:INFO:****** providing AddCustomer details *****
+080325 04:26:12 PM:INFO:====== WebDriver manager ======
+080325 04:26:13 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:26:14 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:26:14 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:26:16 PM:INFO:Test_003_add_customer
+080325 04:26:23 PM:INFO:****** Login Successful *****
+080325 04:26:23 PM:INFO: ****** starting add customer Test *****
+080325 04:26:28 PM:INFO:****** providing AddCustomer details *****
+080325 04:29:58 PM:INFO:====== WebDriver manager ======
+080325 04:30:00 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:30:01 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:30:01 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:30:03 PM:INFO:Test_003_add_customer
+080325 04:30:10 PM:INFO:****** Login Successful *****
+080325 04:30:10 PM:INFO: ****** starting add customer Test *****
+080325 04:35:40 PM:INFO:====== WebDriver manager ======
+080325 04:35:42 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:35:42 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:35:43 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:35:45 PM:INFO:Test_003_add_customer
+080325 04:35:52 PM:INFO:****** Login Successful *****
+080325 04:35:52 PM:INFO: ****** starting add customer Test *****
+080325 04:37:30 PM:INFO:====== WebDriver manager ======
+080325 04:37:32 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:37:32 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:37:33 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:37:35 PM:INFO:Test_003_add_customer
+080325 04:37:42 PM:INFO:****** Login Successful *****
+080325 04:37:42 PM:INFO: ****** starting add customer Test *****
+080325 04:37:48 PM:INFO:****** providing AddCustomer details *****
+080325 04:41:37 PM:INFO:====== WebDriver manager ======
+080325 04:41:39 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:41:40 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:41:40 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:41:42 PM:INFO:Test_003_add_customer
+080325 04:41:49 PM:INFO:****** Login Successful *****
+080325 04:41:49 PM:INFO: ****** starting add customer Test *****
+080325 04:44:58 PM:INFO:====== WebDriver manager ======
+080325 04:45:00 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:45:01 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:45:01 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:45:03 PM:INFO:Test_003_add_customer
+080325 04:45:11 PM:INFO:****** Login Successful *****
+080325 04:45:11 PM:INFO: ****** starting add customer Test *****
+080325 04:48:25 PM:INFO:====== WebDriver manager ======
+080325 04:48:27 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:48:27 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:48:28 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:48:29 PM:INFO:Test_003_add_customer
+080325 04:48:36 PM:INFO:****** Login Successful *****
+080325 04:48:36 PM:INFO: ****** starting add customer Test *****
+080325 04:50:55 PM:INFO:====== WebDriver manager ======
+080325 04:50:57 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:50:58 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:50:59 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:51:01 PM:INFO:Test_003_add_customer
+080325 04:51:09 PM:INFO:****** Login Successful *****
+080325 04:51:09 PM:INFO: ****** starting add customer Test *****
+080325 04:51:15 PM:INFO:****** providing AddCustomer details *****
+080325 04:52:53 PM:INFO:====== WebDriver manager ======
+080325 04:52:55 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:53:45 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:54:00 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:54:02 PM:INFO:Test_003_add_customer
+080325 04:54:09 PM:INFO:****** Login Successful *****
+080325 04:54:09 PM:INFO: ****** starting add customer Test *****
+080325 04:56:01 PM:INFO:====== WebDriver manager ======
+080325 04:56:03 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:56:03 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:56:04 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:56:06 PM:INFO:Test_003_add_customer
+080325 04:56:13 PM:INFO:****** Login Successful *****
+080325 04:56:13 PM:INFO: ****** starting add customer Test *****
+080325 04:58:45 PM:INFO:====== WebDriver manager ======
+080325 04:58:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:58:47 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 04:58:47 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 04:58:49 PM:INFO:Test_003_add_customer
+080325 04:58:56 PM:INFO:****** Login Successful *****
+080325 04:58:56 PM:INFO: ****** starting add customer Test *****
+080325 04:59:02 PM:INFO:****** providing AddCustomer details *****
+080325 05:03:57 PM:INFO:====== WebDriver manager ======
+080325 05:03:59 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:03:59 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:03:59 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:04:02 PM:INFO:Test_003_add_customer
+080325 05:04:05 PM:INFO:****** Login Successful *****
+080325 05:04:05 PM:INFO: ****** starting add customer Test *****
+080325 05:08:51 PM:INFO:====== WebDriver manager ======
+080325 05:08:53 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:08:53 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:08:54 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:08:56 PM:INFO:Test_003_add_customer
+080325 05:09:06 PM:INFO:****** Login Successful *****
+080325 05:09:06 PM:INFO:****** Starting add customer Test *****
+080325 05:09:12 PM:INFO:****** Providing AddCustomer details *****
+080325 05:11:52 PM:INFO:====== WebDriver manager ======
+080325 05:11:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:11:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:11:55 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:11:57 PM:INFO:Test_003_add_customer
+080325 05:12:04 PM:INFO:****** Login Successful *****
+080325 05:12:04 PM:INFO:****** Starting add customer Test *****
+080325 05:13:43 PM:INFO:====== WebDriver manager ======
+080325 05:13:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:13:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:13:47 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:13:49 PM:INFO:Test_003_add_customer
+080325 05:13:56 PM:INFO:****** Login Successful *****
+080325 05:13:56 PM:INFO:****** Starting add customer Test *****
+080325 05:16:02 PM:INFO:====== WebDriver manager ======
+080325 05:16:04 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:16:05 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:16:05 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:16:07 PM:INFO:******** Test_002_DDT_Login ********
+080325 05:16:09 PM:INFO:Rows found: 5
+080325 05:16:09 PM:INFO:Row 2: user=admin@yourstore.com, expected=pass
+080325 05:16:14 PM:INFO:Login test: PASS
+080325 05:16:17 PM:INFO:Row 3: user=admin@yourstore.com, expected=fail
+080325 05:16:18 PM:INFO:Login test: PASS (failed as expected)
+080325 05:16:18 PM:INFO:Row 4: user=adm@yourstore.com, expected=fail
+080325 05:16:20 PM:INFO:Login test: PASS (failed as expected)
+080325 05:16:20 PM:INFO:Row 5: user=adm@yourstore.com, expected=fail
+080325 05:16:22 PM:INFO:Login test: PASS (failed as expected)
+080325 05:16:22 PM:INFO:Login DDT test: PASSED
+080325 05:17:02 PM:INFO:====== WebDriver manager ======
+080325 05:17:04 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:17:04 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:17:05 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:17:07 PM:INFO:Test_003_add_customer
+080325 05:17:14 PM:INFO:****** Login Successful *****
+080325 05:17:14 PM:INFO:****** Starting add customer Test *****
+080325 05:22:11 PM:INFO:====== WebDriver manager ======
+080325 05:22:12 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:22:13 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:22:13 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:23:48 PM:INFO:====== WebDriver manager ======
+080325 05:23:50 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:23:51 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:23:51 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:23:53 PM:INFO:Test_003_add_customer
+080325 05:23:59 PM:INFO:****** Login Successful *****
+080325 05:23:59 PM:INFO:****** Starting add customer Test *****
+080325 05:25:32 PM:INFO:====== WebDriver manager ======
+080325 05:25:34 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:25:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:25:35 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:25:37 PM:INFO:Test_003_add_customer
+080325 05:25:44 PM:INFO:****** Login Successful *****
+080325 05:25:44 PM:INFO:****** Starting add customer Test *****
+080325 05:31:35 PM:INFO:====== WebDriver manager ======
+080325 05:31:37 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:31:37 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:31:38 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:31:40 PM:INFO:Test_003_add_customer
+080325 05:31:47 PM:INFO:****** Login Successful *****
+080325 05:31:47 PM:INFO:****** Starting add customer Test *****
+080325 05:31:59 PM:INFO:****** Providing AddCustomer details *****
+080325 05:32:32 PM:INFO:====== WebDriver manager ======
+080325 05:32:34 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:32:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:32:36 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:32:38 PM:INFO:Test_003_add_customer
+080325 05:32:45 PM:INFO:****** Login Successful *****
+080325 05:32:45 PM:INFO:****** Starting add customer Test *****
+080325 05:32:58 PM:INFO:****** Providing AddCustomer details *****
+080325 05:33:30 PM:INFO:====== WebDriver manager ======
+080325 05:33:32 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:33:32 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:33:32 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:33:34 PM:INFO:Test_003_add_customer
+080325 05:33:40 PM:INFO:****** Login Successful *****
+080325 05:33:40 PM:INFO:****** Starting add customer Test *****
+080325 05:35:31 PM:INFO:====== WebDriver manager ======
+080325 05:35:33 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:35:33 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:35:34 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:35:36 PM:INFO:Test_003_add_customer
+080325 05:35:43 PM:INFO:****** Login Successful *****
+080325 05:35:43 PM:INFO:****** Starting add customer Test *****
+080325 05:35:53 PM:INFO:****** Providing AddCustomer details *****
+080325 05:37:11 PM:INFO:====== WebDriver manager ======
+080325 05:37:13 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:37:13 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:37:14 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:37:16 PM:INFO:Test_003_add_customer
+080325 05:37:23 PM:INFO:****** Login Successful *****
+080325 05:37:23 PM:INFO:****** Starting add customer Test *****
+080325 05:37:34 PM:INFO:****** Providing AddCustomer details *****
+080325 05:43:44 PM:INFO:====== WebDriver manager ======
+080325 05:43:45 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:43:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:43:47 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:43:49 PM:INFO:Test_003_add_customer
+080325 05:43:59 PM:INFO:****** Login Successful *****
+080325 05:43:59 PM:INFO:****** Starting add customer Test *****
+080325 05:44:09 PM:INFO:****** Providing AddCustomer details *****
+080325 05:48:58 PM:INFO:====== WebDriver manager ======
+080325 05:49:00 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:49:00 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:49:01 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:49:02 PM:INFO:Test_003_add_customer
+080325 05:49:10 PM:INFO:****** Login Successful *****
+080325 05:49:10 PM:INFO:****** Starting add customer Test *****
+080325 05:49:20 PM:INFO:****** Providing AddCustomer details *****
+080325 05:53:22 PM:INFO:====== WebDriver manager ======
+080325 05:53:24 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:53:25 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 05:53:25 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 05:53:27 PM:INFO:Test_003_add_customer
+080325 05:53:34 PM:INFO:****** Login Successful *****
+080325 05:53:34 PM:INFO:****** Starting add customer Test *****
+080325 05:53:44 PM:INFO:****** Providing AddCustomer details *****
+080325 06:10:55 PM:INFO:====== WebDriver manager ======
+080325 06:10:57 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:10:57 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:10:58 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:11:00 PM:INFO:Test_003_add_customer
+080325 06:11:08 PM:INFO:****** Login Successful *****
+080325 06:11:08 PM:INFO:****** Starting add customer Test *****
+080325 06:11:18 PM:INFO:****** Providing AddCustomer details *****
+080325 06:16:09 PM:INFO:====== WebDriver manager ======
+080325 06:16:10 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:16:11 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:16:11 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:16:13 PM:INFO:Test_003_add_customer
+080325 06:16:16 PM:INFO:****** Login Successful *****
+080325 06:16:16 PM:INFO:****** Starting add customer Test *****
+080325 06:16:27 PM:INFO:****** Providing AddCustomer details *****
+080325 06:19:33 PM:INFO:====== WebDriver manager ======
+080325 06:19:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:19:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:19:36 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:19:38 PM:INFO:Test_003_add_customer
+080325 06:19:44 PM:INFO:****** Login Successful *****
+080325 06:19:44 PM:INFO:****** Starting add customer Test *****
+080325 06:20:52 PM:INFO:====== WebDriver manager ======
+080325 06:20:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:20:55 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:20:55 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:20:57 PM:INFO:Test_003_add_customer
+080325 06:21:04 PM:INFO:****** Login Successful *****
+080325 06:21:04 PM:INFO:****** Starting add customer Test *****
+080325 06:21:14 PM:INFO:****** Providing AddCustomer details *****
+080325 06:27:48 PM:INFO:====== WebDriver manager ======
+080325 06:27:50 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:27:50 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:27:50 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:27:52 PM:INFO:Test_003_add_customer
+080325 06:28:00 PM:INFO:****** Login Successful *****
+080325 06:28:00 PM:INFO:****** Starting add customer Test *****
+080325 06:28:10 PM:INFO:****** Providing AddCustomer details *****
+080325 06:45:53 PM:INFO:====== WebDriver manager ======
+080325 06:45:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:45:54 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:45:55 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:45:56 PM:INFO:Test_003_add_customer
+080325 06:46:01 PM:INFO:****** Login Successful *****
+080325 06:46:01 PM:INFO:****** Starting add customer Test *****
+080325 06:46:10 PM:INFO:****** Providing AddCustomer details *****
+080325 06:51:39 PM:INFO:====== WebDriver manager ======
+080325 06:51:40 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:51:40 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:51:41 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:51:42 PM:INFO:Test_003_add_customer
+080325 06:51:52 PM:INFO:****** Login Successful *****
+080325 06:51:52 PM:INFO:****** Starting add customer Test *****
+080325 06:52:01 PM:INFO:****** Providing AddCustomer details *****
+080325 06:54:15 PM:INFO:====== WebDriver manager ======
+080325 06:54:17 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:54:17 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 06:54:17 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 06:54:19 PM:INFO:Test_003_add_customer
+080325 06:54:25 PM:INFO:****** Login Successful *****
+080325 06:54:25 PM:INFO:****** Starting add customer Test *****
+080325 06:54:35 PM:INFO:****** Providing AddCustomer details *****
+080325 10:27:58 PM:INFO:====== WebDriver manager ======
+080325 10:28:00 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:28:00 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:28:01 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 10:28:03 PM:INFO:Test_003_add_customer
+080325 10:28:08 PM:INFO:****** Login Successful *****
+080325 10:28:08 PM:INFO:****** Starting add customer Test *****
+080325 10:28:18 PM:INFO:****** Providing AddCustomer details *****
+080325 10:30:49 PM:INFO:====== WebDriver manager ======
+080325 10:30:51 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:30:51 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:30:52 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 10:30:55 PM:INFO:Test_003_add_customer
+080325 10:31:02 PM:INFO:****** Login Successful *****
+080325 10:31:02 PM:INFO:****** Starting add customer Test *****
+080325 10:31:12 PM:INFO:****** Providing AddCustomer details *****
+080325 10:44:29 PM:INFO:====== WebDriver manager ======
+080325 10:44:31 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:44:32 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:44:32 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 10:44:34 PM:INFO:Test_003_add_customer
+080325 10:44:41 PM:INFO:****** Login Successful *****
+080325 10:44:41 PM:INFO:****** Starting add customer Test *****
+080325 10:44:52 PM:INFO:****** Providing AddCustomer details *****
+080325 10:48:36 PM:INFO:====== WebDriver manager ======
+080325 10:48:38 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:48:38 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 10:48:39 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 10:48:40 PM:INFO:Test_003_add_customer
+080325 10:48:47 PM:INFO:****** Login Successful *****
+080325 10:48:47 PM:INFO:****** Starting add customer Test *****
+080325 10:48:57 PM:INFO:****** Providing AddCustomer details *****
+080325 11:10:41 PM:INFO:====== WebDriver manager ======
+080325 11:10:42 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:10:43 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:10:44 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:10:46 PM:INFO:Test_003_add_customer
+080325 11:10:53 PM:INFO:****** Login Successful *****
+080325 11:10:53 PM:INFO:****** Starting add customer Test *****
+080325 11:11:03 PM:INFO:****** Providing AddCustomer details *****
+080325 11:13:00 PM:INFO:====== WebDriver manager ======
+080325 11:13:02 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:13:02 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:13:03 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:13:05 PM:INFO:Test_003_add_customer
+080325 11:13:13 PM:INFO:****** Login Successful *****
+080325 11:13:13 PM:INFO:****** Starting add customer Test *****
+080325 11:13:23 PM:INFO:****** Providing AddCustomer details *****
+080325 11:16:30 PM:INFO:====== WebDriver manager ======
+080325 11:16:32 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:16:33 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:16:33 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:16:35 PM:INFO:Test_003_add_customer
+080325 11:16:43 PM:INFO:****** Login Successful *****
+080325 11:16:43 PM:INFO:****** Starting add customer Test *****
+080325 11:16:53 PM:INFO:****** Providing AddCustomer details *****
+080325 11:20:38 PM:INFO:====== WebDriver manager ======
+080325 11:20:40 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:20:40 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:20:41 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:20:43 PM:INFO:Test_003_add_customer
+080325 11:20:50 PM:INFO:****** Login Successful *****
+080325 11:20:50 PM:INFO:****** Starting add customer Test *****
+080325 11:21:01 PM:INFO:****** Providing AddCustomer details *****
+080325 11:25:33 PM:INFO:====== WebDriver manager ======
+080325 11:25:35 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:25:36 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:25:36 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:25:38 PM:INFO:Test_003_add_customer
+080325 11:25:45 PM:INFO:****** Login Successful *****
+080325 11:25:45 PM:INFO:****** Starting add customer Test *****
+080325 11:25:54 PM:INFO:****** Providing AddCustomer details *****
+080325 11:28:26 PM:INFO:====== WebDriver manager ======
+080325 11:28:28 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:28:28 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:28:29 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:28:31 PM:INFO:Test_003_add_customer
+080325 11:28:37 PM:INFO:****** Login Successful *****
+080325 11:28:37 PM:INFO:****** Starting add customer Test *****
+080325 11:28:47 PM:INFO:****** Providing AddCustomer details *****
+080325 11:33:44 PM:INFO:====== WebDriver manager ======
+080325 11:33:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:33:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:33:47 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:33:49 PM:INFO:Test_003_add_customer
+080325 11:33:56 PM:INFO:****** Login Successful *****
+080325 11:33:56 PM:INFO:****** Starting add customer Test *****
+080325 11:34:06 PM:INFO:****** Providing AddCustomer details *****
+080325 11:38:04 PM:INFO:====== WebDriver manager ======
+080325 11:38:06 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:38:07 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:38:07 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:38:39 PM:INFO:====== WebDriver manager ======
+080325 11:38:40 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:38:41 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:38:41 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:38:43 PM:INFO:Test_003_add_customer
+080325 11:38:51 PM:INFO:****** Login Successful *****
+080325 11:38:51 PM:INFO:****** Starting add customer Test *****
+080325 11:39:01 PM:INFO:****** Providing AddCustomer details *****
+080325 11:41:01 PM:INFO:====== WebDriver manager ======
+080325 11:41:03 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:41:04 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:41:04 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:41:06 PM:INFO:Test_003_add_customer
+080325 11:41:14 PM:INFO:****** Login Successful *****
+080325 11:41:14 PM:INFO:****** Starting add customer Test *****
+080325 11:41:25 PM:INFO:****** Providing AddCustomer details *****
+080325 11:48:43 PM:INFO:====== WebDriver manager ======
+080325 11:48:45 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:48:46 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:48:46 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:48:48 PM:INFO:Test_003_add_customer
+080325 11:49:00 PM:INFO:****** Login Successful *****
+080325 11:49:00 PM:INFO:****** Starting add customer Test *****
+080325 11:49:10 PM:INFO:****** Providing AddCustomer details *****
+080325 11:55:26 PM:INFO:====== WebDriver manager ======
+080325 11:55:28 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:55:28 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:55:29 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:55:30 PM:INFO:Test_003_add_customer
+080325 11:55:38 PM:INFO:****** Login Successful *****
+080325 11:55:38 PM:INFO:****** Starting add customer Test *****
+080325 11:55:47 PM:INFO:****** Providing AddCustomer details *****
+080325 11:59:31 PM:INFO:====== WebDriver manager ======
+080325 11:59:33 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:59:33 PM:INFO:Get LATEST chromedriver version for google-chrome
+080325 11:59:34 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080325 11:59:35 PM:INFO:Test_003_add_customer
+080325 11:59:43 PM:INFO:****** Login Successful *****
+080325 11:59:43 PM:INFO:****** Starting add customer Test *****
+080325 11:59:53 PM:INFO:****** Providing AddCustomer details *****
+080425 12:00:08 AM:INFO:Toast message: ×
+The new customer has been added successfully.
+080425 12:00:08 AM:INFO:Add customer test passed
+080425 12:00:14 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002098A86F9D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/139dfbffdd22f9a7037912b1d80c5761
+080425 12:00:18 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002098A86E5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/139dfbffdd22f9a7037912b1d80c5761
+080425 12:00:22 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002098A832B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/139dfbffdd22f9a7037912b1d80c5761
+080425 12:02:26 AM:INFO:====== WebDriver manager ======
+080425 12:02:27 AM:INFO:Get LATEST chromedriver version for google-chrome
+080425 12:02:28 AM:INFO:Get LATEST chromedriver version for google-chrome
+080425 12:02:28 AM:INFO:Get LATEST chromedriver version for google-chrome
+080425 12:02:30 AM:INFO:WebDriver version 138.0.7204.183 selected
+080425 12:02:30 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080425 12:02:30 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080425 12:02:30 AM:INFO:Driver downloading response is 200
+080425 12:02:33 AM:INFO:Get LATEST chromedriver version for google-chrome
+080425 12:02:35 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+080425 12:02:37 AM:INFO:Test_003_add_customer
+080425 12:02:44 AM:INFO:****** Login Successful *****
+080425 12:02:44 AM:INFO:****** Starting add customer Test *****
+080425 12:02:53 AM:INFO:****** Providing AddCustomer details *****
+080425 12:03:07 AM:INFO:Toast message: ×
+The new customer has been added successfully.
+080425 12:03:07 AM:INFO:Add customer test passed
+080425 12:03:14 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002174DFFC550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be7d8286ecf6d9253282a932b2338a3a
+080425 12:03:18 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002174DFFEFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be7d8286ecf6d9253282a932b2338a3a
+080425 12:03:22 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002174DFC1E00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be7d8286ecf6d9253282a932b2338a3a
+080625 02:28:33 AM:INFO:====== WebDriver manager ======
+080625 02:28:38 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:28:39 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:28:41 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:28:43 AM:INFO:WebDriver version 138.0.7204.183 selected
+080625 02:28:43 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080625 02:28:43 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+080625 02:28:43 AM:INFO:Driver downloading response is 200
+080625 02:28:48 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:28:51 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+080625 02:28:54 AM:INFO:SearchCustomerByEmail
+080625 02:29:04 AM:INFO:****** Login Successful *****
+080625 02:29:04 AM:INFO:****** Starting add customer Test *****
+080625 02:31:21 AM:INFO:====== WebDriver manager ======
+080625 02:31:23 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:31:24 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:31:24 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080625 02:31:26 AM:INFO:SearchCustomerByEmail
+080625 02:31:33 AM:INFO:****** Login Successful *****
+080625 02:31:33 AM:INFO:****** Starting add customer Test *****
+080625 02:31:49 AM:INFO:====== WebDriver manager ======
+080625 02:31:51 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:31:51 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:31:52 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080625 02:31:54 AM:INFO:SearchCustomerByEmail
+080625 02:32:02 AM:INFO:****** Login Successful *****
+080625 02:32:02 AM:INFO:****** Starting add customer Test *****
+080625 02:33:16 AM:INFO:====== WebDriver manager ======
+080625 02:33:19 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:33:19 AM:INFO:Get LATEST chromedriver version for google-chrome
+080625 02:33:20 AM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+080625 02:33:22 AM:INFO:SearchCustomerByEmail
+080625 02:33:29 AM:INFO:****** Login Successful *****
+080625 02:33:29 AM:INFO:****** Starting add customer Test *****
+081025 02:21:39 PM:INFO:====== WebDriver manager ======
+081025 02:21:44 PM:INFO:Get LATEST chromedriver version for google-chrome
+081025 02:21:44 PM:INFO:Get LATEST chromedriver version for google-chrome
+081025 02:21:44 PM:INFO:Get LATEST chromedriver version for google-chrome
+081025 02:21:46 PM:INFO:WebDriver version 138.0.7204.183 selected
+081025 02:21:46 PM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+081025 02:21:46 PM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+081025 02:21:46 PM:INFO:Driver downloading response is 200
+081025 02:21:48 PM:INFO:Get LATEST chromedriver version for google-chrome
+081025 02:21:51 PM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+081025 02:21:54 PM:INFO:SearchCustomerByEmail
+081025 02:21:58 PM:INFO:****** Login Successful *****
+081025 02:21:58 PM:INFO:****** Starting add customer Test *****
+081025 02:26:51 PM:INFO:====== WebDriver manager ======
+081025 02:26:53 PM:INFO:Get LATEST chromedriver version for google-chrome
+081025 02:26:53 PM:INFO:Get LATEST chromedriver version for google-chrome
+081025 02:26:53 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+081025 02:26:55 PM:INFO:Test_003_add_customer
+081025 02:26:58 PM:INFO:****** Login Successful *****
+081025 02:26:58 PM:INFO:****** Starting add customer Test *****
+082025 11:52:52 PM:INFO:====== WebDriver manager ======
+082025 11:52:58 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:52:58 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:52:59 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:53:00 PM:INFO:WebDriver version 138.0.7204.183 selected
+082025 11:53:00 PM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+082025 11:53:00 PM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+082025 11:53:00 PM:INFO:Driver downloading response is 200
+082025 11:53:08 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:53:09 PM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+082025 11:53:11 PM:INFO:Starting test_login
+082025 11:53:11 PM:INFO:******** Test_001_Login *********
+082025 11:53:11 PM:INFO:******** Verifying Home page Title *********
+082025 11:53:13 PM:INFO:Home page title verified successfully.
+082025 11:53:15 PM:INFO:====== WebDriver manager ======
+082025 11:53:19 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:53:19 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:53:20 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+082025 11:53:21 PM:INFO:******** Verifying login test case *********
+082025 11:53:27 PM:INFO:Login test passed.
+082025 11:53:55 PM:INFO:====== WebDriver manager ======
+082025 11:53:59 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:53:59 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:54:00 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+082025 11:54:02 PM:INFO:SearchCustomerByEmail
+082025 11:54:07 PM:INFO:****** Login Successful *****
+082025 11:54:07 PM:INFO:****** Starting add customer Test *****
+082025 11:54:16 PM:INFO:****** Searching Customer By Email *****
+082025 11:54:21 PM:INFO:****** Testcase Completed *****
+082025 11:54:46 PM:INFO:====== WebDriver manager ======
+082025 11:54:50 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:54:50 PM:INFO:Get LATEST chromedriver version for google-chrome
+082025 11:54:51 PM:INFO:Driver [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+082025 11:54:52 PM:INFO:Test_003_add_customer
+082025 11:54:56 PM:INFO:****** Login Successful *****
+082025 11:54:56 PM:INFO:****** Starting add customer Test *****
+082025 11:55:07 PM:INFO:****** Providing AddCustomer details *****
+082125 12:06:01 AM:INFO:====== WebDriver manager ======
+082125 12:06:05 AM:INFO:Get LATEST chromedriver version for google-chrome
+082125 12:06:06 AM:INFO:Get LATEST chromedriver version for google-chrome
+082125 12:06:06 AM:INFO:Get LATEST chromedriver version for google-chrome
+082125 12:06:07 AM:INFO:WebDriver version 138.0.7204.183 selected
+082125 12:06:07 AM:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+082125 12:06:07 AM:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+082125 12:06:08 AM:INFO:Driver downloading response is 200
+082125 12:06:13 AM:INFO:Get LATEST chromedriver version for google-chrome
+082125 12:06:13 AM:INFO:Driver has been saved in cache [C:\Users\viral square\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+082125 12:06:15 AM:INFO:Test_003_add_customer
+082125 12:06:19 AM:INFO:****** Login Successful *****
+082125 12:06:19 AM:INFO:****** Starting add customer Test *****
+082125 12:06:29 AM:INFO:****** Providing AddCustomer details *****
